@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/shomil999/voting-dapp/issues"
   },
-  "homepage": "https://github.com/shomil999/voting-dapp#readme"
+  "homepage": "https://github.com/shomil999/voting-dapp#readme",
+  "dependencies": {
+    "ethereumjs-testrpc": "^6.0.3",
+    "solc": "^0.6.7",
+    "web3": "^1.2.7"
+  }
 }
